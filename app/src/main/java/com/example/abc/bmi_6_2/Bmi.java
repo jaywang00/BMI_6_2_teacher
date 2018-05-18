@@ -24,7 +24,7 @@ public class Bmi extends AppCompatActivity implements View.OnClickListener {
         setListeners();
     }
 
-    //----------------------------------------------
+//-----------------------------------------------------
     @Override
     protected void onStart() {
         super.onStart();
